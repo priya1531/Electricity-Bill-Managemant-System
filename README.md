@@ -10,26 +10,22 @@ Skills
 • Networking
 • SQL
 • Linux Basics
-• Wireshark
 • HTML
 
 Projects
 --------
-1. Electricity Bill Management System
+Electricity Bill Management System
    - Built using SQL Server (SSMS)
    - Features:
      ✓ Customer management
      ✓ Bill generation
      ✓ Payment status update
 
-2. Network Packet Analysis
-   - Used Wireshark to analyze network traffic.
 
 Certificates
 ------------
 • Cisco Networking Academy
 • TryHackMe
-• Coursera (if completed)
 
 Education
 ---------
